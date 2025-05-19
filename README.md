@@ -8,7 +8,7 @@ The purpose of this repo is to help you quickly set up Anthropic's Computer Use 
 
 Orgo provides a free cloud-based desktop environment for AI computer use.
 
-This code is like a "Hello World". Not going into anything complicated.
+This code is like a "Hello World". Not going into anything super complicated.
 
 ## Prerequisites
 
@@ -84,20 +84,12 @@ Instead of using Orgo, you can also locally self-host using Anthropic's Docker i
 
 ## Video Tutorial
 
-Here's a 30-second video showing how to set this up:
+[![Anthropic Computer Use Setup in 30 Seconds](https://img.youtube.com/vi/JTbgxry--Fk/0.jpg)](https://www.youtube.com/watch?v=JTbgxry--Fk)
 
-<iframe 
-  width="100%" 
-  height="400" 
-  src="https://www.youtube.com/embed/JTbgxry--Fk" 
-  title="Anthropic Computer Use Setup in 30 Seconds (With Orgo)" 
-  frameBorder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowFullScreen>
-</iframe>
+Click the image above to watch a 30-second video showing how to set this up.
 
 ## Resources
 
 - [Anthropic Computer Use Docs](https://docs.anthropic.com/en/docs/agents-and-tools/computer-use)
 - [Orgo Documentation](https://www.orgo.ai/docs)
-- [OS-World Leaderboard](https://os-world.github.io/) - AI model performance on computer tasks# anthropic-cua-starter
+- [OS-World Leaderboard](https://os-world.github.io/) - AI model performance on computer tasks
