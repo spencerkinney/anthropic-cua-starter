@@ -91,5 +91,5 @@ Click the image above to watch a 30-second video showing how to set this up. Thi
 ## Resources
 
 - [Anthropic Computer Use Docs](https://docs.anthropic.com/en/docs/agents-and-tools/computer-use)
-- [Orgo Documentation](https://www.orgo.ai/docs)
+- [Orgo Documentation](https://docs.orgo.ai)
 - [OS-World Leaderboard](https://os-world.github.io/) - AI model performance on computer tasks
