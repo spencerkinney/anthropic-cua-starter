@@ -69,7 +69,7 @@ Behind the scenes:
 
 ## Alternative Methods
 
-If you don't want to use natural language, you can directly control the computer:
+If you don't want to use the prebuilt `prompt()` function, you can directly control the computer:
 
 ```python
 computer.left_click(200, 200)  # Click at x,y coordinates
@@ -86,7 +86,7 @@ Instead of using Orgo, you can also locally self-host using Anthropic's Docker i
 
 [![Anthropic Computer Use Setup in 30 Seconds](https://img.youtube.com/vi/JTbgxry--Fk/0.jpg)](https://www.youtube.com/watch?v=JTbgxry--Fk)
 
-Click the image above to watch a 30-second video showing how to set this up.
+Click the image above to watch a 30-second video showing how to set this up. This is just to get started and test out Anthropic computer-use. The next step would be to try and build your own agent loop.
 
 ## Resources
 
